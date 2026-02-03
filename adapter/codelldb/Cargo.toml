@@ -11,7 +11,7 @@ lldb-stub = {path = "../lldb-stub", optional = true}
 
 backtrace = "0.3.37"
 base64 = "0.12.3"
-bytes = "1.0.0"
+bytes = "1.11.1"
 clap = "2.33.0"
 crossterm = "0.9.6"
 dotenvy = "0.15.7"
